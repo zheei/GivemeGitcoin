@@ -1,4 +1,4 @@
-![picture alt](GivemeGitcoin/betOnTheFix.png "Bet On Fix")
+![picture alt](betOnTheFix.png "Bet On Fix")
 
 _bit about me_
 A fullstack developer who's a noob to blockchain, React.js etc. Just getting started.
